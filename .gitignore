@@ -1,5 +1,10 @@
 .venv/
+.venv-tf/
 __pycache__/
 *.pyc
-.env
-node_modules/
+
+yolo26s.pt
+yolo26s.onnx
+yolo26s_saved_model/
+
+calibration_image_sample_data_20x128x128x3_float32.npy
